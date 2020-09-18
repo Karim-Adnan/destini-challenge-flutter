@@ -1,4 +1,4 @@
-##FINISHED CHALLENGE!
+## FINISHED CHALLENGE!
 
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
